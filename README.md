@@ -1,6 +1,6 @@
 # Bun plugin for Elm modules
 
-This simple plugin let's you `import { Elm } from "src/Main.elm"` like nobody's business. Natively supports Hot Module Reloading (`elm-watch hot`) out of the box when serving, and does ordinary (optimized) build when not.
+This simple plugin lets you `import { Elm } from "src/Main.elm"` like nobody's business. Natively supports Hot Module Reloading (`elm-watch hot`) out of the box when serving, and does ordinary (optimized) build when not.
 
 ## Installation
 
