@@ -1,0 +1,3 @@
+[serve.static]
+plugins = ["./index.ts"]
+

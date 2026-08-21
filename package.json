@@ -1,0 +1,13 @@
+{
+  "name": "bun-plugin-elm",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "elm": "^0.19.2-0",
+    "elm-watch": "^1.2.8"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

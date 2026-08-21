@@ -1,0 +1,10 @@
+{
+    "targets": {
+        "Elm Main": {
+            "inputs": [
+                "/Users/cekrem/code/bun-plugin-elm/src/Main.elm"
+            ],
+            "output": "/Users/cekrem/code/bun-plugin-elm/elm-stuff/output.js"
+        }
+    }
+}
