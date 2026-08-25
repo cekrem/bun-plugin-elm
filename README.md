@@ -27,3 +27,5 @@ plugins = ["bun-plugin-elm"]
 ```
 
 Made by hand, btw (I feel like I need to specify these days...)
+
+[![no ai, I like coding](.github/no-ai.png)](/AI_DISCLOSURE.md)
